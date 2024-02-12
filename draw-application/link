@@ -1,3 +1,6 @@
 https://excalidraw.com/#json=_HQOTJ89lAtX7WKpmWFFR,oy48B5s6m_c0W5uoM45OfA
 --sequence flow
 https://excalidraw.com/#json=gaBgYmXQmQd5jhZwJcKpt,IB1fiGNnvllhhgWkl9uomA
+
+--git fetch origin
+  git checkout 2-bugs-related-to-spring-configuration
