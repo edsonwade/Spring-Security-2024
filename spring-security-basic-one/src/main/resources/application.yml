@@ -1,0 +1,20 @@
+# Common configurations for all profiles
+server:
+  port: 8081
+  servlet:
+    context-path: /
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info, prometheus
+
+
+spring:
+  security:
+    user:
+      name: admin
+      password: admin
+      roles: ADMIN,USER
