@@ -9,4 +9,5 @@ public class BankManagementApplication {
     public static void main(String[] args) {
         run(BankManagementApplication.class, args);
     }
+
 }
